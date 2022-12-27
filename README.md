@@ -1,3 +1,5 @@
+> This repo has been archived and moved [here](https://github.com/etn-ccis/blui-code-standards).
+
 # Brightlayer UI Code Standards
 [![](https://img.shields.io/npm/v/@brightlayer-ui/eslint-config?label=%40brightlayer-ui%2Feslint-config&style=flat)](https://www.npmjs.com/package/@brightlayer-ui/eslint-config) 
 [![](https://img.shields.io/npm/v/@brightlayer-ui/prettier-config?label=%40brightlayer-ui%2Fprettier-config&style=flat)](https://www.npmjs.com/package/@brightlayer-ui/prettier-config) 
